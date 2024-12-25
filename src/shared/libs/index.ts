@@ -1,0 +1,1 @@
+export { getBirthCoords } from './getBirthCoords'

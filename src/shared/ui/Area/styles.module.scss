@@ -1,0 +1,14 @@
+@use '@/shared/assets/styles/varialabels' as *;
+
+.area {
+    border-radius: $border-radius-default;
+    padding: 16px;
+}
+
+.area.black {
+    background-color: $black-030;
+}
+
+.area.white {
+    background-color: $white-006;
+}

@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'SB Sans Text';
+  src: url('shared/assets/fonts/SBSansText-Light.woff2') format('woff2'),
+       url('shared/assets/fonts/SBSansText-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SB Sans Text';
+  src: url('shared/assets/fonts/SBSansText-Italic.woff2') format('woff2'),
+       url('shared/assets/fonts/SBSansText-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'SB Sans Text';
+  src: url('shared/assets/fonts/SBSansText-SemiboldItalic.woff2') format('woff2'),
+       url('shared/assets/fonts/SBSansText-SemiboldItalic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'SB Sans Text';
+  src: url('shared/assets/fonts/SBSansText-Thin.woff2') format('woff2'), 
+       url('shared/assets/fonts/SBSansText-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SB Sans Text';
+  src: url('shared/assets/fonts/SBSansText-Regular.woff2') format('woff2'),
+       url('shared/assets/fonts/SBSansText-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SB Sans Text';
+  src: url('shared/assets/fonts/SBSansText-Semibold.woff2') format('woff2'),
+       url('shared/assets/fonts/SBSansText-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SB Sans Text';
+  src: url('shared/assets/fonts/SBSansText-LightItalic.woff2') format('woff2'),
+       url('shared/assets/fonts/SBSansText-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'SB Sans Text';
+  src: url('https://cdn-app.sberdevices.ru/shared-static/0.0.0/fonts/SBSansText/SBSansText-Heavy.woff2') format('woff2'),
+       url('https://cdn-app.sberdevices.ru/shared-static/0.0.0/fonts/SBSansText/SBSansText-Heavy.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SB Sans Text';
+  src: url('shared/assets/fonts/SBSansText-Bold.woff2') format('woff2'),
+       url('shared/assets/fonts/SBSansText-Bold.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SB Sans Text';
+  src: url('shared/assets/fonts/SBSansText-BoldItalic.woff2') format('woff2'),
+       url('shared/assets/fonts/SBSansText-BoldItalic.woff') format('woff');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'SB Sans Text';
+  src: url('shared/assets/fonts/SBSansText-Medium.woff2') format('woff2'),
+       url('shared/assets/fonts/SBSansText-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+* {
+  font-family: 'SB Sans Text';
+  font-weight: 500;
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+div#root {
+  width: 100vw;
+  height: 100vh;
+}

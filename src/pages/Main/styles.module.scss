@@ -1,0 +1,19 @@
+@use '@/shared/assets/styles/varialabels' as *;
+
+.page {
+    background-image: url('@/shared/assets/images/image.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+.bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, rgba(12, 12, 12, 0) 0%, #0c0c0c 100%);
+}
